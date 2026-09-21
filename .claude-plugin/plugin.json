@@ -1,0 +1,12 @@
+{
+  "name": "policy-scope",
+  "version": "0.1.0",
+  "description": "Search Japanese policy and council documents using Policy Scope.",
+  "homepage": "https://policyscope.jp",
+  "author": {
+    "name": "SONOBA",
+    "email": "policy-scope@sonoba.or.jp"
+  },
+  "repository": "https://github.com/SONOBA-org/policy-scope-claude-plugin",
+  "keywords": ["policy", "japan", "research", "mcp"]
+}

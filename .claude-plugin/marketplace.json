@@ -1,0 +1,12 @@
+{
+  "name": "policy-scope-marketplace",
+  "description": "Claude integration for Policy Scope policy research.",
+  "owner": { "name": "SONOBA" },
+  "plugins": [
+    {
+      "name": "policy-scope",
+      "source": "./",
+      "description": "Search Japanese policy and council documents using Policy Scope."
+    }
+  ]
+}

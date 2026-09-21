@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "policy-scope": {
+      "type": "http",
+      "url": "https://policyscope.jp/api/mcp"
+    }
+  }
+}
